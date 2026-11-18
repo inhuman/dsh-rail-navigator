@@ -1,7 +1,10 @@
 {
   "name": "@inhuman/dsh-rail-navigator",
-  "version": "0.0.1",
-  "description": "Recent workspace and session navigation from the collapsed DSH sidebar rail.",
+  "version": "0.0.3",
+  "description": "Icon-only workspace and session tree in the collapsed DSH sidebar rail.",
+  "scripts": {
+    "test": "node --test"
+  },
   "type": "module",
   "license": "MIT",
   "author": "inhuman",
