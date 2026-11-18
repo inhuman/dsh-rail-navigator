@@ -1,2 +1,4 @@
-- id: rail-navigator
-  name: '@inhuman/dsh-rail-navigator'
+# dsh-rail-navigator — bundle patch: one client row, no host behavior.
+- insert:
+    - id: rail-navigator
+      name: '@inhuman/dsh-rail-navigator'
